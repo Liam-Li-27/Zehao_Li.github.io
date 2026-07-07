@@ -5,20 +5,20 @@ website:
   title: "Zehao Li - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://liam-li-27.github.io/Zehao_Li.github.io/
+  repo-url: https://github.com/Liam-Li-27/Zehao_Li.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Zehao Li 2026©"
+    left: "Zehao 2026©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/zehao-li-liam/
 
   navbar:
     background: primary
     search: true   
-    right: https://www.linkedin.com/in/zehao-li-liam/
+    right:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
