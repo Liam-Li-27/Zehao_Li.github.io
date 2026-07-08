@@ -6,10 +6,10 @@ title: Isaac Newtons's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="zehao997@gmail.com">zehao997@gmail.com</a>
+| <a href="https://github.com/Liam-Li-27/Zehao_Li.github.io">My wikipedia page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+| <a href="Zehao_Resume.pdf">Download PDF</a>
 </div>
 
 
@@ -18,54 +18,19 @@ Physicist, Mathematician, Cambridge professor.
 Standing on the shoulders of giants
 
 ### Specialized in
+Data Cleansing, Exploratory Data Analysis (EDA), Statistical Modeling, Automated Data Pipelines.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Research interests
+Data Mining, Statistical Computing, Predictive Analytics, Exploratory Data Analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2025-2029`
+__The Brigham Young University__
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
@@ -75,14 +40,12 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2025 Apirl - 2026 January`
+Chinese class TA, Rexburg
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2030`
+MIT
 
 
 
